@@ -1,0 +1,244 @@
+.Background{
+    position: absolute;
+    width: 2405px;
+    height: 1590px;
+    left: -255px;
+    top: -255px;
+    }
+  
+    .title{
+      position: absolute;
+      width: 152px;
+      height: 59px;
+      left: 140px;
+      top: 70px;
+      
+      font-family: Montserrat;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 48px;
+      line-height: 59px;
+      /* identical to box height */
+      
+      
+      /* Primary */
+      
+      color: #F7D832;    
+    }
+  
+    .LoginForm{
+      position: absolute;
+  width: 540px;
+  height: 425px;
+  left: 140px;
+  top: 229px;
+  
+    }
+  
+    .forgetPassword{
+      position: absolute;
+  width: 120px;
+  height: 17px;
+  left: 560px;
+  top: 448px;
+  
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  /* identical to box height */
+  
+  
+  /* Dark */
+  
+  color: #333333;
+  
+    }
+  
+  .login{
+    position: absolute;
+  width: 71px;
+  height: 29px;
+  left: 140px;
+  top: 229px;
+  
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 29px;
+  
+  /* Dark */
+  
+  color: #333333;
+    }
+  
+  .YellowBubble{  
+    position: absolute;
+    width: 1124px;
+    height: 1124px;
+    left: 1026px;
+    top: -154px;
+    border-radius: 100%;
+    
+    background: #FFE999;
+  }
+  
+  .Bubble1{
+    position: absolute;
+  width: 510px;
+  height: 510px;
+  left: -255px;
+  top: -255px;
+  border-radius: 50%;
+  background: #F8F8F8;
+  }
+  
+  .Bubble2{
+    position: absolute;
+  width: 510px;
+  height: 510px;
+  left: 403px;
+  top: 825px;
+  border-radius: 50%;
+  background: #F8F8F8;
+  
+  }
+  
+  .top{
+    position: absolute;
+  width: 516px;
+  height: 44px;
+  left: 1264px;
+  top: 263px;
+  
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 44px;
+  /* identical to box height */
+  
+  text-align: right;
+  
+  /* Dark */
+  
+  color: #333333;
+  
+  
+  }
+  
+  .bottom{
+    position: absolute;
+  width: 680px;
+  height: 44px;
+  left: 1100px;
+  top: 328px;
+  
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: right;
+  
+  /* Dark */
+  
+  color: #333333;
+  }
+  
+  .signup{
+   position: absolute;
+    width: 321px;
+    height: 22px;
+    left: 140px;
+    top: 632px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+    
+    
+    /* Dark */
+    
+    color: #333333;
+    
+  }
+  
+  .test{
+    position: absolute;
+  width: 200px;
+  height: 50px;
+  left: 1580px;
+  top: 75px;
+  
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  
+  /* Dark */
+  
+  color: #333333;
+  
+  position: absolute;
+  width: 200px;
+  height: 50px;
+  left: 1580px;
+  top: 75px;
+  
+  /* Primary */
+  
+  background: #F7D832;
+  border-radius: 5px;
+  
+  }
+  
+  .terms{
+    position: absolute;
+  width: 150px;
+  height: 22px;
+  left: 140px;
+  top: 993px;
+  
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+  /* identical to box height */
+  
+  
+  /* Dark */
+  
+  color: #333333;
+  }
+  
+  .policy{
+    position: absolute;
+  width: 126px;
+  height: 22px;
+  left: 357px;
+  top: 993px;
+  
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+  /* identical to box height */
+  
+  
+  /* Dark */
+  
+  color: #333333;
+  
+  }
